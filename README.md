@@ -3,6 +3,8 @@ This repository contains text data from the Swahili section of Voice of America 
 
 All data is in the public domain.
 
+![public domain mark](https://licensebuttons.net/p/mark/1.0/88x31.png)
+
 English articles and paragraphs were filtered out using [cld3](https://github.com/google/cld3).
 
 
